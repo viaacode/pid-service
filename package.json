@@ -1,0 +1,14 @@
+{
+  "name": "pid-service",
+  "version": "1.0.0",
+  "description": "REST API around a noid database",
+  "main": "index.js",
+  "repository": "https://github.com/viaacode/pid-service.git",
+  "author": "VIAA",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "minimist": "^1.2.0",
+    "request": "^2.85.0"
+  }
+}
